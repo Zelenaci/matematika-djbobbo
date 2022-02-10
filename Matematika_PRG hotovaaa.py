@@ -3,7 +3,7 @@
 from os.path import basename, splitext
 import tkinter as tk
 import random
-from tkinter import  CENTER, E, LEFT, TOP,  N, UNDERLINE, BOTTOM, HORIZONTAL, Label, Button, Scale,  StringVar, Frame, Entry   # vsechno mozne jsem si zkousel a tak jsou tu importnute i nepouzite funkce
+from tkinter import  CENTER, E, LEFT, TOP,  N, UNDERLINE, BOTTOM, HORIZONTAL, Label, Button, Scale,  StringVar, Frame, Entry   #vsechno mozne jsem si zkousel a tak jsou tu importnute i nepouzite funkce
 
 # from tkinter import ttk
 
